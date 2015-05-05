@@ -37,7 +37,7 @@ public class IsAbecedarian {
         } else { // Odd
             isDD = false;
         }
-        return isDD;
+        return isAbecedarian;
     }
 
     public static String[] readLines(String pathName) throws IOException {
