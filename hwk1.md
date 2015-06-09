@@ -27,3 +27,12 @@ There are 8 bits in a byte
 
 5) What is the largest value that a byte can represent? 
 255
+
+6) Simplify the following boolean expressions:
+
+	a) !((FALSE | FALSE) | (FALSE & TRUE)) - True
+	
+	b) (TRUE | !(FALSE & (TRUE | FALSE))) - True
+	
+	c) (!FALSE & (!(FALSE | FALSE) & TRUE)) - True
+
